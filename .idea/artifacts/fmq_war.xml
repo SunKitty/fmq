@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="fmq:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ding.war">
+      <element id="artifact" artifact-name="fmq:war exploded" />
+    </root>
+  </artifact>
+</component>

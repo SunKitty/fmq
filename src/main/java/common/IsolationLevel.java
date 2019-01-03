@@ -1,6 +1,7 @@
 package common;
 
 /**
+ * 控制如何阅读事务处理的消息
  * @author sunding
  */
 public enum IsolationLevel {

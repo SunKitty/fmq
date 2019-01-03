@@ -152,6 +152,7 @@ public class NormalProducer implements IProducer {
 		this.kafkaProducer.flush();
 	}
 
+
 	@Override
 	public void close() throws IOException {
 		this.flush();
